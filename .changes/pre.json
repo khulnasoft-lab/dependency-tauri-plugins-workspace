@@ -42,6 +42,7 @@
     ".changes/global-hotkey-event.md",
     ".changes/global-shortcut-refactor.md",
     ".changes/http-cookies.md",
+    ".changes/http-origin-unsafe.md",
     ".changes/http-origin.md",
     ".changes/http-tauri-beta-19.md",
     ".changes/http-unsafe-headers.md",
